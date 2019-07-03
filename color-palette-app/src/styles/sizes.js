@@ -2,6 +2,7 @@ export default {
     up() {
 
     },
+    // create a media query for all screen sizes equivalent to or smaller than size
     down(size) {
         const sizes = {
           xs: "575.98px",
