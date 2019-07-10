@@ -32,7 +32,7 @@ class Navbar extends Component {
     const {
       level, changeLevel, showLevelsBar, classes,
     } = this.props;
-    const { format } = this.state;
+    const { format, open } = this.state;
     return (
       <header className={classes.Navbar}>
         <div className={classes.logo}>
@@ -64,7 +64,7 @@ Level:
         </div>
         <Snackbar
           anchorOrigin={{ vertical: 'bottom', horizontal: 'left' }}
-          open={this.state.open}
+          open={open}
           autoHideDuration={3000}
           message={(
             <span id="message-id">
