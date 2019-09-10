@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Color-Palette-Creator/static/css/main.1d61ad5d.chunk.css",
+    "main.js": "/Color-Palette-Creator/static/js/main.8e970245.chunk.js",
+    "main.js.map": "/Color-Palette-Creator/static/js/main.8e970245.chunk.js.map",
+    "runtime~main.js": "/Color-Palette-Creator/static/js/runtime~main.dbf23445.js",
+    "runtime~main.js.map": "/Color-Palette-Creator/static/js/runtime~main.dbf23445.js.map",
+    "static/css/2.e8e75e1a.chunk.css": "/Color-Palette-Creator/static/css/2.e8e75e1a.chunk.css",
+    "static/js/2.ae4456f8.chunk.js": "/Color-Palette-Creator/static/js/2.ae4456f8.chunk.js",
+    "static/js/2.ae4456f8.chunk.js.map": "/Color-Palette-Creator/static/js/2.ae4456f8.chunk.js.map",
+    "index.html": "/Color-Palette-Creator/index.html",
+    "precache-manifest.4344b4d7dbc308dab722d2a06a11c116.js": "/Color-Palette-Creator/precache-manifest.4344b4d7dbc308dab722d2a06a11c116.js",
+    "service-worker.js": "/Color-Palette-Creator/service-worker.js",
+    "static/css/2.e8e75e1a.chunk.css.map": "/Color-Palette-Creator/static/css/2.e8e75e1a.chunk.css.map",
+    "static/css/main.1d61ad5d.chunk.css.map": "/Color-Palette-Creator/static/css/main.1d61ad5d.chunk.css.map",
+    "static/media/bg.svg": "/Color-Palette-Creator/static/media/bg.67decdcf.svg"
+  }
+}
